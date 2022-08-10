@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>480320990150-3h5ttlj99dhmabet5tcr8onn3mdf6dmd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.480320990150-3h5ttlj99dhmabet5tcr8onn3mdf6dmd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3ZtvL9N5xafU3PuY8zdPX0LTayZ1prTs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>480320990150</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.twoFactor</string>
+	<key>PROJECT_ID</key>
+	<string>twofactor-46c35</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twofactor-46c35.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:480320990150:ios:fce2c16e231ebedc9fa0c7</string>
+</dict>
+</plist>
